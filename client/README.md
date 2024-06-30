@@ -29,10 +29,6 @@ VisioEase is a revolutionary eye care application designed to empower users with
 
 VisioEase is the result of collaborative efforts from a team of passionate individuals dedicated to enhancing eye care awareness. Meet our contributors:
 
-1. **Isuru Madusanka** - Creator of the Ayurvedic Eye Care Section and the Doctor contact section
-2. **Ishara Madusanka** - Creator of user management, games for kids, and Eye check-up tests for adults (group leader)
-3. **Umesha Dilshani** - Creator of infant eye care section
-4. **Yasiru Deshan** - Creator of the far-sighted test and the near-sighted test
 
 ## Screenshots
 
